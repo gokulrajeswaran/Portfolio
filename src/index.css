@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Optional: Offset for fixed navbar so it doesn't cover section titles */
+section {
+    scroll-margin-top: 4rem;
+    /* Match your navbar height (h-16 = 4rem) */
+}
