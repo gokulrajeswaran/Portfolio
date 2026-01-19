@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Navbar from "./components/nav";
-import Home from "./Home";
+import Home from "./home";
 
 // 1. Import Lenis
 import Lenis from "@studio-freight/lenis";
