@@ -18,7 +18,7 @@ const Projects = () => {
             description: "A comprehensive full-stack platform built using the MERN stack for scalable performance and efficient data management.",
             tech: ["MongoDB", "Express", "React", "Node JS"],
             github: "#",
-            live: "https://demo-goldelevate.onrender.com",
+            live: "https://goldelevate.shop",
             image: "/projects/goldelevate.png"
         },
 
